@@ -13,7 +13,7 @@ class YaScooterOrderPageData:
     data_sets = {
         'data_set1': {
             'first_name': 'Тест',
-            'last_name': 'Тестовна',
+            'last_name': 'Тестовая',
             'address': 'Доставочная улица',
             'subway_name': 'Беговая',
             'telepthone_number': '79164136022',
